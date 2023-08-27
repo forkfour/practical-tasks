@@ -1,4 +1,4 @@
-package com.walking.lesson34_date_time.task2;
+package Road.walking.lesson34_date_time.task2;
 
 /**
  * Реализуйте программу, выводящую в консоль сообщение,

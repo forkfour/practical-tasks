@@ -1,4 +1,4 @@
-package com.walking.lesson73_barrier.task1;
+package Road.walking.lesson73_barrier.task1;
 
 /**
  * Эмулируйте сбор компании друзей в цикле.

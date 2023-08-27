@@ -1,4 +1,4 @@
-package com.walking.lesson43_map.task2;
+package Road.walking.lesson43_map.task2;
 
 /**
  * Реализуйте задачу

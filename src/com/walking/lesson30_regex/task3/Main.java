@@ -1,4 +1,4 @@
-package com.walking.lesson30_regex.task3;
+package Road.walking.lesson30_regex.task3;
 
 /**
  * Реализуйте задачу

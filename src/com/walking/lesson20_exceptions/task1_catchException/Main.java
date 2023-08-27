@@ -1,4 +1,4 @@
-package com.walking.lesson20_exceptions.task1_catchException;
+package Road.walking.lesson20_exceptions.task1_catchException;
 
 /**
  * Создайте массив, имитирующий простейшую файловую систему и содержащий объекты файлов.

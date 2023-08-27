@@ -1,4 +1,4 @@
-package com.walking.lesson7_varargs_overloading;
+package Road.walking.lesson7_varargs_overloading;
 
 /**
  * Вычислите результат выражения, используя рекурсивный алгоритм.

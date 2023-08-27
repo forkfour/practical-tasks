@@ -1,4 +1,4 @@
-package com.walking.lesson19_object_methods;
+package Road.walking.lesson19_object_methods;
 
 /**
  * Реализуйте класс «Машина». Поля допустимо выбрать на свое усмотрение, но необходимо,

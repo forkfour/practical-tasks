@@ -1,4 +1,4 @@
-package com.walking.lesson40_queue2;
+package Road.walking.lesson40_queue2;
 
 /**
  * Реализуйте класс Задание. Он должен содержать поле Название,

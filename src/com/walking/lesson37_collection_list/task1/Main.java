@@ -1,4 +1,4 @@
-package com.walking.lesson37_collection_list.task1;
+package Road.walking.lesson37_collection_list.task1;
 
 /**
  * Реализуйте задачу

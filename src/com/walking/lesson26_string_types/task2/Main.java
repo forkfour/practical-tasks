@@ -1,4 +1,4 @@
-package com.walking.lesson26_string_types.task2;
+package Road.walking.lesson26_string_types.task2;
 
 /**
  * Реализуйте программу, принимающую с клавиатуры строку,

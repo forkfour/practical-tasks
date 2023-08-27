@@ -1,4 +1,4 @@
-package com.walking.lesson26_string_types.task1;
+package Road.walking.lesson26_string_types.task1;
 
 /**
  * Реализуйте задачу

@@ -1,4 +1,4 @@
-package com.walking.lesson67_locks.task1;
+package Road.walking.lesson67_locks.task1;
 
 /**
  * Реализуйте

@@ -1,4 +1,4 @@
-package com.walking.lesson20_exceptions.task2;
+package Road.walking.lesson20_exceptions.task2;
 
 /**
  * Реализуйте любой из вариантов Задачи 1 в уроке 16.

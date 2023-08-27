@@ -1,4 +1,4 @@
-package com.walking.lesson7_varargs_overloading;
+package Road.walking.lesson7_varargs_overloading;
 
 /**
  * Написать программу, которая объединяет любое количество строк,

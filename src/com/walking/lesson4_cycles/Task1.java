@@ -1,4 +1,4 @@
-package com.walking.lesson4_cycles;
+package Road.walking.lesson4_cycles;
 
 /**
  * Ввести с клавиатуры целое число.

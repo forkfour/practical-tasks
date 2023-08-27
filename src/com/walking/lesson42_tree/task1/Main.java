@@ -1,4 +1,4 @@
-package com.walking.lesson42_tree.task1;
+package Road.walking.lesson42_tree.task1;
 
 /**
  * Реализуйте бинарное дерево поиска. Учтите возможность использования дерева как для Comparable-сущностей,

@@ -1,4 +1,4 @@
-package com.walking.lesson28_generics1.task2;
+package Road.walking.lesson28_generics1.task2;
 
 /**
  * Создать класс-обертку над объектом любого типа.

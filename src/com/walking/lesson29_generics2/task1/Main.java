@@ -1,4 +1,4 @@
-package com.walking.lesson29_generics2.task1;
+package Road.walking.lesson29_generics2.task1;
 
 /**
  * Реализуйте обобщенный тип, хранящий параметризованное поле.

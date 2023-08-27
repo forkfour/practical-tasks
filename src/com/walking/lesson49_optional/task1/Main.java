@@ -1,4 +1,4 @@
-package com.walking.lesson49_optional.task1;
+package Road.walking.lesson49_optional.task1;
 
 /**
  * Реализуйте задачу 2 урока 43:

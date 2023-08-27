@@ -1,4 +1,4 @@
-package com.walking.lesson16_abstract_class_interface.task1_interface;
+package Road.walking.lesson16_abstract_class_interface.task1_interface;
 
 
 /**

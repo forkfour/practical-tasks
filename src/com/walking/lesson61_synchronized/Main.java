@@ -1,4 +1,4 @@
-package com.walking.lesson61_synchronized;
+package Road.walking.lesson61_synchronized;
 
 /**
  * Реализуйте сервис для работы с машинами.

@@ -1,4 +1,4 @@
-package com.walking.lesson28_generics1.task4;
+package Road.walking.lesson28_generics1.task4;
 
 /**
  * Реализовать параметризованный класс, хранящий и обрабатывающий стек.

@@ -1,4 +1,4 @@
-package com.walking.lesson46_lambda.task3;
+package Road.walking.lesson46_lambda.task3;
 
 /**
  * Реализуйте Задачу из урока 21:

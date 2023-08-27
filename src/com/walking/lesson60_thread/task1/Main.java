@@ -1,4 +1,4 @@
-package com.walking.lesson60_thread.task1;
+package Road.walking.lesson60_thread.task1;
 
 /**
  * Напишите программу, которая пишет в консоль текущее время каждый две секунды,

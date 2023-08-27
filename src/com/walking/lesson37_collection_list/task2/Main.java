@@ -1,4 +1,4 @@
-package com.walking.lesson37_collection_list.task2;
+package Road.walking.lesson37_collection_list.task2;
 
 /**
  * Попробуйте реализовать собственную коллекцию, наследуясь от Collection.

@@ -1,4 +1,4 @@
-package com.walking.lesson47_method_reference.task3;
+package Road.walking.lesson47_method_reference.task3;
 
 /**
  * Реализуйте Задачу 3 из урока 46,

@@ -1,4 +1,4 @@
-package com.walking.lesson46_lambda.task2;
+package Road.walking.lesson46_lambda.task2;
 
 /**
  * Знакомимся с функциональным интерфейсом Consumer.

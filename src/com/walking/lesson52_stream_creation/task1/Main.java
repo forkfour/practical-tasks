@@ -1,4 +1,4 @@
-package com.walking.lesson52_stream_creation.task1;
+package Road.walking.lesson52_stream_creation.task1;
 
 /**
  * Реализуйте задачу 5.1 из урока 4:

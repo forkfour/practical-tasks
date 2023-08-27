@@ -1,4 +1,4 @@
-package com.walking.lesson52_stream_creation.task2_iterate;
+package Road.walking.lesson52_stream_creation.task2_iterate;
 
 /**
  * Реализуйте программу, выводящую в консоль все даты текущего месяца.

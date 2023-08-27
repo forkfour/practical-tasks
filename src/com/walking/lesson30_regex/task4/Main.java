@@ -1,4 +1,4 @@
-package com.walking.lesson30_regex.task4;
+package Road.walking.lesson30_regex.task4;
 
 /**
  * Реализуйте программу, разбивающую исходный текст на составные части.

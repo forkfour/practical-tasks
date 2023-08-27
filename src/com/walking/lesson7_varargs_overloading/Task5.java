@@ -1,4 +1,4 @@
-package com.walking.lesson7_varargs_overloading;
+package Road.walking.lesson7_varargs_overloading;
 
 /**
  * Вычислить из записать в массив первые 10 простых чисел.

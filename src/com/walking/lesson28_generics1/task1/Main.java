@@ -1,4 +1,4 @@
-package com.walking.lesson28_generics1.task1;
+package Road.walking.lesson28_generics1.task1;
 
 /**
  * Создать обобщенный тип, принимающий в себя любого из наследников Number.

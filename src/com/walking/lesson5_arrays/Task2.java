@@ -1,4 +1,4 @@
-package com.walking.lesson5_arrays;
+package Road.walking.lesson5_arrays;
 
 /**
  * Создать массив int’ов из 5 элементов.

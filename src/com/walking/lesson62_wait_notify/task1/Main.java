@@ -1,4 +1,4 @@
-package com.walking.lesson62_wait_notify.task1;
+package Road.walking.lesson62_wait_notify.task1;
 
 /**
  * Реализуйте имитацию отправки и получения сообщений.

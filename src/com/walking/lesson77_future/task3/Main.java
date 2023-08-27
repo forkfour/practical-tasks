@@ -1,4 +1,4 @@
-package com.walking.lesson77_future.task3;
+package Road.walking.lesson77_future.task3;
 
 /**
  * Реализуйте цепочку асинхронных операций: получите сообщение с клавиатуры,

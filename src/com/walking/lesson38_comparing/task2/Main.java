@@ -1,4 +1,4 @@
-package com.walking.lesson38_comparing.task2;
+package Road.walking.lesson38_comparing.task2;
 
 /**
  * Используя классы-сущности из задачи

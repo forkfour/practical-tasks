@@ -1,4 +1,4 @@
-package com.walking.lesson64_thread_methods.task2_2;
+package Road.walking.lesson64_thread_methods.task2_2;
 
 /**
  * Напишите программу, заполняющую двумерный массив большого размера

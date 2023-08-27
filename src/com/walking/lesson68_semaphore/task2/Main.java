@@ -1,4 +1,4 @@
-package com.walking.lesson68_semaphore.task2;
+package Road.walking.lesson68_semaphore.task2;
 
 /**
  * Пять безмолвных философов сидят вокруг круглого стола, перед каждым философом стоит тарелка спагетти.

@@ -1,4 +1,4 @@
-package com.walking.lesson25_nested_classes.task2.static_class;
+package Road.walking.lesson25_nested_classes.task2.static_class;
 
 /**
  * Реализуйте задачу

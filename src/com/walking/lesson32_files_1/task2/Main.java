@@ -1,4 +1,4 @@
-package com.walking.lesson32_files_1.task2;
+package Road.walking.lesson32_files_1.task2;
 
 /**
  * Используя Задачу 1, реализуйте чтение из carCatalog.txt,

@@ -1,4 +1,4 @@
-package com.walking.lesson47_method_reference.task2;
+package Road.walking.lesson47_method_reference.task2;
 
 /**
  * Реализуйте Задачу 1, обернув метод выведения записи в консоль

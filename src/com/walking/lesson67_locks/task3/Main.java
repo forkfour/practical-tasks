@@ -1,4 +1,4 @@
-package com.walking.lesson67_locks.task3;
+package Road.walking.lesson67_locks.task3;
 
 /**
  * Реализуйте программу, увеличивающую значение счетчика на 1

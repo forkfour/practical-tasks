@@ -1,4 +1,4 @@
-package com.walking.lesson30_regex.task2;
+package Road.walking.lesson30_regex.task2;
 
 /**
  * Реализуйте метод для работы с ФИО.

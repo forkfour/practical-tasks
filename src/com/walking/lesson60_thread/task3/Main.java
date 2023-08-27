@@ -1,4 +1,4 @@
-package com.walking.lesson60_thread.task3;
+package Road.walking.lesson60_thread.task3;
 
 /**
  * Уже на текущем этапе мы можем распараллелить какие-то действия с помощью многопоточности.

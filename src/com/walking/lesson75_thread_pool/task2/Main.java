@@ -1,4 +1,4 @@
-package com.walking.lesson75_thread_pool.task2;
+package Road.walking.lesson75_thread_pool.task2;
 
 /**
  * Реализуйте программу, которая сообщает о начале каждого часа.

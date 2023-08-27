@@ -1,4 +1,4 @@
-package com.walking.lesson77_future.task2;
+package Road.walking.lesson77_future.task2;
 
 /**
  * Реализуйте параллельный поиск максимального значения в массиве чисел.

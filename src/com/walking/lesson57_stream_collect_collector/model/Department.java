@@ -1,4 +1,4 @@
-package com.walking.lesson57_stream_collect_collector.model;
+package Road.walking.lesson57_stream_collect_collector.model;
 
 import java.util.List;
 

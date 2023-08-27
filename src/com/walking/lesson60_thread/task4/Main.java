@@ -1,4 +1,4 @@
-package com.walking.lesson60_thread.task4;
+package Road.walking.lesson60_thread.task4;
 
 /**
  * Решите Задачу 3, не используя Thread.join().

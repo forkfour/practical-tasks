@@ -1,4 +1,4 @@
-package com.walking.lesson6_methods;
+package Road.walking.lesson6_methods;
 
 /**
  * Декомпозировать задачу

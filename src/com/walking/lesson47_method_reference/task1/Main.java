@@ -1,4 +1,4 @@
-package com.walking.lesson47_method_reference.task1;
+package Road.walking.lesson47_method_reference.task1;
 
 /**
  * Создайте произвольный список элементов.

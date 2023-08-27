@@ -1,4 +1,4 @@
-package com.walking.lesson14_polymorphism.task2;
+package Road.walking.lesson14_polymorphism.task2;
 
 /**
  * Используя новые знания, упростите реализацию задачи 2 из предыдущего урока:

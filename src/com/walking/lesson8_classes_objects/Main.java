@@ -1,4 +1,4 @@
-package com.walking.lesson8_classes_objects;
+package Road.walking.lesson8_classes_objects;
 
 /**
  * Реализовать класс-счетчик.

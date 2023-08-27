@@ -1,4 +1,4 @@
-package com.walking.lesson21_immutable_object;
+package Road.walking.lesson21_immutable_object;
 
 /**
  * Реализуйте задачу из урока 19.

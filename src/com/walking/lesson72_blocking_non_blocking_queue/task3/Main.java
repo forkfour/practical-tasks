@@ -1,4 +1,4 @@
-package com.walking.lesson72_blocking_non_blocking_queue.task3;
+package Road.walking.lesson72_blocking_non_blocking_queue.task3;
 
 /**
  * Развейте Задачу 1 из текущего урока.
@@ -13,7 +13,7 @@ package com.walking.lesson72_blocking_non_blocking_queue.task3;
  * По сути, корректным решением данной задачи является эмуляция работы пула потоков
  * в его наивной реализации. С пулами потоков, предоставляемыми Java,
  * мы познакомимся в ближайших уроках.
- * @see com.walking.lesson72_blocking_non_blocking_queue.task1.Main
+ * @see Road.walking.lesson72_blocking_non_blocking_queue.task1.Main
  */
 public class Main {
     public static void main(String[] args) {

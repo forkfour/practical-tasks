@@ -1,4 +1,4 @@
-package com.walking.lesson14_polymorphism.task1;
+package Road.walking.lesson14_polymorphism.task1;
 
 /**
  * Реализуйте класс «Правильная фигура».

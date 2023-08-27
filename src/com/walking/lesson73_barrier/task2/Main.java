@@ -1,4 +1,4 @@
-package com.walking.lesson73_barrier.task2;
+package Road.walking.lesson73_barrier.task2;
 
 /**
  * Реализуйте метод подсчета числа четных элементов в трехмерном массиве.

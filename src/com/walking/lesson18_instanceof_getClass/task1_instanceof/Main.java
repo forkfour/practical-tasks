@@ -1,4 +1,4 @@
-package com.walking.lesson18_instanceof_getClass.task1_instanceof;
+package Road.walking.lesson18_instanceof_getClass.task1_instanceof;
 
 /**
  * Реализовать задачу

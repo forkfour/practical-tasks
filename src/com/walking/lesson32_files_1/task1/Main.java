@@ -1,4 +1,4 @@
-package com.walking.lesson32_files_1.task1;
+package Road.walking.lesson32_files_1.task1;
 
 /**
  * Используя класс Car (или создав новый класс для сущности «машина», на ваше усмотрение) из задачи

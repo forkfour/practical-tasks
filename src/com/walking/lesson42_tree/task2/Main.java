@@ -1,4 +1,4 @@
-package com.walking.lesson42_tree.task2;
+package Road.walking.lesson42_tree.task2;
 
 /**
  * Реализуйте АВЛ-дерево.

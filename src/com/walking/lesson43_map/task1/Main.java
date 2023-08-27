@@ -1,4 +1,4 @@
-package com.walking.lesson43_map.task1;
+package Road.walking.lesson43_map.task1;
 
 /**
  * Реализуйте программу, выводящую в консоль количество использований каждого из уникальных слов

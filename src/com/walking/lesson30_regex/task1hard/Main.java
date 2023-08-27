@@ -1,4 +1,4 @@
-package com.walking.lesson30_regex.task1hard;
+package Road.walking.lesson30_regex.task1hard;
 
 /**
  * Реализуйте boolean-метод, валидирующий входящую строку.

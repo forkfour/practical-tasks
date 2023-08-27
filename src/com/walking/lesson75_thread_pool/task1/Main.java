@@ -1,4 +1,4 @@
-package com.walking.lesson75_thread_pool.task1;
+package Road.walking.lesson75_thread_pool.task1;
 
 /**
  * Реализуйте программу, которая выводит актуальное время каждую минуту,

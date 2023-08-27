@@ -1,4 +1,4 @@
-package com.walking.lesson64_thread_methods.task1;
+package Road.walking.lesson64_thread_methods.task1;
 
 /**
  * Напишите программу из 10 последовательно запускающихся потоков.

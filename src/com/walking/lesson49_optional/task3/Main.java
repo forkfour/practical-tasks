@@ -1,4 +1,4 @@
-package com.walking.lesson49_optional.task3;
+package Road.walking.lesson49_optional.task3;
 
 /**
  * Реализуйте абстрактный класс «Животное», содержащий абстрактный метод sound().

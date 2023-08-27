@@ -1,4 +1,4 @@
-package com.walking.lesson57_stream_collect_collector;
+package Road.walking.lesson57_stream_collect_collector;
 
 /**
  * Необходимо реализовать набор функций для HRM-системы компании,

@@ -1,4 +1,4 @@
-package com.walking.lesson6_methods;
+package Road.walking.lesson6_methods;
 
 /**
  * Написать программу, которая принимает длину и ширину прямоугольника (2 целых числа).

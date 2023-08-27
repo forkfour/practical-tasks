@@ -1,4 +1,4 @@
-package com.walking.lesson75_thread_pool.task4;
+package Road.walking.lesson75_thread_pool.task4;
 
 /**
  * Реализуйте программу, которая выводит числа от 0 до 100 в консоль.

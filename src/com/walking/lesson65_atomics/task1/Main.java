@@ -1,4 +1,4 @@
-package com.walking.lesson65_atomics.task1;
+package Road.walking.lesson65_atomics.task1;
 
 /**
  * Реализуйте сервис управления счетчиками.

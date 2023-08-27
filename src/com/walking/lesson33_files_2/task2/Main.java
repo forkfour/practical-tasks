@@ -1,4 +1,4 @@
-package com.walking.lesson33_files_2.task2;
+package Road.walking.lesson33_files_2.task2;
 
 /**
  * Реализуйте Задачу 2 из урока

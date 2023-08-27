@@ -1,4 +1,4 @@
-package com.walking.lesson34_date_time.task1;
+package Road.walking.lesson34_date_time.task1;
 
 /**
  * Реализуйте метод, возвращающий объект LocalDateTime на основании переданной строки.

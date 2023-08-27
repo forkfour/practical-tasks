@@ -1,4 +1,4 @@
-package com.walking.lesson52_stream_creation.task3_vars;
+package Road.walking.lesson52_stream_creation.task3_vars;
 
 /**
  * Реализуйте метод, возвращающий Stream<String> из дат месяца,

@@ -1,4 +1,4 @@
-package com.walking.lesson39_queue1.task1;
+package Road.walking.lesson39_queue1.task1;
 
 /**
  * Реализуйте односвязный список (можно использовать реализацию в рамках

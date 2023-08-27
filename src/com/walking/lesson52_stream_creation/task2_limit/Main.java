@@ -1,4 +1,4 @@
-package com.walking.lesson52_stream_creation.task2_limit;
+package Road.walking.lesson52_stream_creation.task2_limit;
 
 /**
  * Реализуйте программу, выводящую в консоль все даты текущего месяца.

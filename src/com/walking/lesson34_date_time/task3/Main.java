@@ -1,4 +1,4 @@
-package com.walking.lesson34_date_time.task3;
+package Road.walking.lesson34_date_time.task3;
 
 /**
  * Реализуйте программу, выводящую в консоль количество времени между двумя

@@ -1,4 +1,4 @@
-package com.walking.lesson10_static_constants.task3;
+package Road.walking.lesson10_static_constants.task3;
 
 /**
  * Используя задачу

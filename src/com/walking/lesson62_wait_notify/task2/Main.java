@@ -1,4 +1,4 @@
-package com.walking.lesson62_wait_notify.task2;
+package Road.walking.lesson62_wait_notify.task2;
 
 /**
  * Реализуйте имитацию оптовой базы с тремя поставщиками и тремя покупателями.

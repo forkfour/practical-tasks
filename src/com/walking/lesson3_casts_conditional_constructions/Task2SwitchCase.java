@@ -1,4 +1,4 @@
-package com.walking.lesson3_casts_conditional_constructions;
+package Road.walking.lesson3_casts_conditional_constructions;
 
 /**
  * Написать программу, которая принимает строку с клавиатуры.

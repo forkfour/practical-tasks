@@ -1,4 +1,4 @@
-package com.walking.lesson51_iterator_spliterator;
+package Road.walking.lesson51_iterator_spliterator;
 
 /**
  * Реализовать Stream на основе System.in.

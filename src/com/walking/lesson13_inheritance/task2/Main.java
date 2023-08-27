@@ -1,4 +1,4 @@
-package com.walking.lesson13_inheritance.task2;
+package Road.walking.lesson13_inheritance.task2;
 
 /**
  * Реализуйте класс Animal. Реализуйте его наследников: Dog, Cat, Cow.

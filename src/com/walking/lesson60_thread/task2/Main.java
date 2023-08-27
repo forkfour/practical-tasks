@@ -1,4 +1,4 @@
-package com.walking.lesson60_thread.task2;
+package Road.walking.lesson60_thread.task2;
 
 /**
  * Опишите интерфейс, декларирующий метод, заполняющий двумерный массив заданных размеров

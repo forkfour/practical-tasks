@@ -1,4 +1,4 @@
-package com.walking.lesson28_generics1.task3;
+package Road.walking.lesson28_generics1.task3;
 
 /**
  * Реализовать класс для работы с массивом.

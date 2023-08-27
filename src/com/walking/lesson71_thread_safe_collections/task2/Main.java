@@ -1,4 +1,4 @@
-package com.walking.lesson71_thread_safe_collections.task2;
+package Road.walking.lesson71_thread_safe_collections.task2;
 
 /**
  * Создайте стрим на базе ArrayList и внутри стрима удаляйте элементы исходного списка.

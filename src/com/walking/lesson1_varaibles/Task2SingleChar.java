@@ -1,4 +1,4 @@
-package com.walking.lesson1_varaibles;
+package Road.walking.lesson1_varaibles;
 
 /**
  * Используя одну переменную типа char вывести свое имя в консоль.

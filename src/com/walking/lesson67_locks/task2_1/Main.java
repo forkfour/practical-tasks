@@ -1,4 +1,4 @@
-package com.walking.lesson67_locks.task2_1;
+package Road.walking.lesson67_locks.task2_1;
 
 /**
  * Реализуйте систему диспетчерской для аварийной службы.

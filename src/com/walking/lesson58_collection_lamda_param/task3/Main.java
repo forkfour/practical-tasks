@@ -1,4 +1,4 @@
-package com.walking.lesson58_collection_lamda_param.task3;
+package Road.walking.lesson58_collection_lamda_param.task3;
 
 /**
  * Используя классы из практики к уроку 57, реализуйте метод,

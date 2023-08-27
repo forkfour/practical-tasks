@@ -1,4 +1,4 @@
-package com.walking.lesson17_enum.task1;
+package Road.walking.lesson17_enum.task1;
 
 /**
  * Реализуйте задачу

@@ -1,4 +1,4 @@
-package com.walking.lesson29_generics2.task2;
+package Road.walking.lesson29_generics2.task2;
 
 /**
  * Используя Задачу 1 из урока Generics.

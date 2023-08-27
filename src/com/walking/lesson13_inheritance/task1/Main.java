@@ -1,4 +1,4 @@
-package com.walking.lesson13_inheritance.task1;
+package Road.walking.lesson13_inheritance.task1;
 
 /**
  * Реализовать класс Animal, содержащий protected-конструктор без параметров,

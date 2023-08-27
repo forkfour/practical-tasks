@@ -1,4 +1,4 @@
-package com.walking.lesson65_atomics.task2;
+package Road.walking.lesson65_atomics.task2;
 
 /**
  * Реализуйте метод, возвращающий число элементов равных N в двумерном массиве целых чисел.

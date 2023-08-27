@@ -1,4 +1,4 @@
-package com.walking.lesson49_optional.task2;
+package Road.walking.lesson49_optional.task2;
 
 /**
  * Реализуйте рад классов:
